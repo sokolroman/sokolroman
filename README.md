@@ -10,8 +10,7 @@
 
 
 <div align="center">
-    <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.flickr.com/photos/196950037@N03/52504116288/in/album-72177720303737508
-)" width="600" height="200"/>
+    <img src="https://www.flickr.com/photos/196950037@N03/52504116288/in/album-72177720303737508" width="600" height="200"/>
 </div>
 
 <!--
