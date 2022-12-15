@@ -10,9 +10,8 @@
 
 
 <div align="center">
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/196950037@N03/52504116288/in/album-72177720303737508" title="18A_0045"><img src="https://live.staticflickr.com/65535/52504116288_b638f4baa1_o.jpg" width="600" height="200" alt="18A_0045"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+    <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.flickr.com/photos/196950037@N03/52504116288/in/album-72177720303737508
+)" width="600" height="200"/>
 </div>
 
 <!--
