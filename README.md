@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://romansokol.com/public/images/th.png" width="100"/>
+  <img src="https://romansokol.com/My project.png" width="100"/>
 </div>
 <!--
 **sokolroman/sokolroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
