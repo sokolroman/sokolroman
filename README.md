@@ -6,7 +6,7 @@
   </a>
 </div>
   
-
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/196950037@N03/52504180023/in/dateposted-public/" title="20201120_154201"><img src="https://live.staticflickr.com/65535/52504180023_8a3f7c20da_q.jpg" width="150" height="150" alt="20201120_154201"></a>
 
 <!--
 **sokolroman/sokolroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
