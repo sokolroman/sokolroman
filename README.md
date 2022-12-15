@@ -1,17 +1,12 @@
 ### Hi there 👋
 <div id="header" align="center">
   <img src="https://romansokol.com/My project.png" width="100"/>
-</div>
   <a href="https://romansokol.com">
     <img src="https://img.shields.io/badge/webpage-romansokol.com-blue" alt="WebPage Badge"/>
   </a>
 </div>
- <img src="https://komarev.com/ghpvc/?sokolroman&style=flat-square&color=blue" alt=""/>
+  
 
-
-<div align="center">
-    <img src="[https://www.flickr.com/photos/196950037@N03/52504116288/in/album-72177720303737508](https://flic.kr/p/2nZBjyh)" width="600" height="200"/>
-</div>
 
 <!--
 **sokolroman/sokolroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
