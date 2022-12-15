@@ -1,12 +1,7 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/196950037@N03/52504174513/" title="Hiking In Spring"><img src="https://live.staticflickr.com/65535/52504174513_fb07a5a293_o.jpg" width="861" height="843" alt="Hiking In Spring"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  <img src="https://romansokol.com/My project.png" width="100"/>
-  <a href="https://romansokol.com">
-    <img src="https://img.shields.io/badge/webpage-romansokol.com-blue" alt="WebPage Badge"/>
-  </a>
-</div>
-  
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/196950037@N03/52504174513/" title="Hiking In Spring"><img src="https://live.staticflickr.com/65535/52504174513_d492cb36b1_q.jpg" width="150" height="150" alt="Hiking In Spring"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+ 
 
 <!--
 **sokolroman/sokolroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
