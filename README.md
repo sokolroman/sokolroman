@@ -3,12 +3,9 @@
 ![bonbi](https://user-images.githubusercontent.com/72160963/207972607-3589a52d-767b-4c42-9847-0d1a799e97b1.gif)
 
  
-> Hi.
+> In the morning sun,
 
->> Hmm anyone here??
+>> Developer sips his tea.
 
->>> Hello?
+>>> To code, he has begun.
 
->>>> SERIOUSLY, where am I?.
-
->>>>> Whatever. This is fine.
