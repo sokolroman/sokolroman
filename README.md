@@ -41,5 +41,5 @@ Additional skills:
 
 ## Fun Fact
 
-I can speak three different languages. Приятно познакомиться! I am also learning Finnish as a fourth language because I'd like to live in Finland some day.
+I can speak three different languages, English, Russian, and Ukrainian. Приятно познакомиться! I am also learning Finnish as a fourth language because I'd like to live in Finland some day. 
 
