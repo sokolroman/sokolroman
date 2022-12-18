@@ -11,7 +11,7 @@
 ## AboutMe
 I'm Roman, a Beginner Full Stack Web Developer from the United States, currently working freelance. I am a hard worker with a lot of attention to detail and I am always eager to learn and improve my skills.
 
-I'm very creative, and when I'm not channeling that creativity into a project I love to play with film cameras, hike and practice jiu-jitsu.
+I'm very creative, and when I'm not channeling that creativity into a project I love to play with film cameras, go out hiking, and practice jiu-jitsu.
 
 
 ## MySkills
