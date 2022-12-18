@@ -28,7 +28,7 @@ Learning never stops, but so far I've learned how to work with:
 - React
 - MySQL
 - MongoDB
-- 
+
 Non-programming skills:
 
 - Can work alone or as part of a team
