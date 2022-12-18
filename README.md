@@ -25,6 +25,7 @@ In my free time, I enjoy playing with film cameras, going out hiking, and practi
 - jQuery
 - Express
 - React
+- Node
 - MySQL
 - MongoDB
 
