@@ -2,12 +2,11 @@
 # Roman Sokol (sokolroman)
 <div align="center">
 <img src="https://user-images.githubusercontent.com/72160963/207974447-8ca564fc-1c94-4b43-a875-e0932c3832c7.gif" alt="drawing" width="200"/>
+</div>
  Pronouns: he/him 🧍🏻‍♂️ //
  Country: United States 🇺🇸  //
  Coding since 2020 🧑🏻‍💻  //
  Open to work: Yes
-</div>
-
 
 
 ## AboutMe
