@@ -43,5 +43,5 @@ Other:
 
 ## Contact Me
 
-- 💻 [Portfolio](https://romansokol.com)
+- 💻 [Webpage](https://romansokol.com)
 - 📫 [Email](mailto:sokolroman@proton.me)
