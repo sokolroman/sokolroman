@@ -1,4 +1,3 @@
-
 # Roman Sokol
 
 <div align="center">
@@ -12,34 +11,37 @@
 
 ## About Me
 
-I am a beginner full stack web developer from the United States, currently working freelance. I am an intuitive and hardworking individual with a lot of attention to detail. I am always eager to learn and improve my skills.
-
-In my free time, I enjoy playing with film cameras, going out hiking, and practicing jiu-jitsu. I am also excited about the potential of Web 3.0 and AI to revolutionize the way we interact with the internet.
+I am a beginner full stack web developer from the United States, currently working freelance. In my free time, I enjoy playing with film cameras, going out hiking, and practicing jiu-jitsu. I am also excited about the potential of Web 3.0 and AI to revolutionize the way we interact with the internet.
 
 ## Skills
 
-- HTML
-- CSS
-- Bootstrap
+Languages:
+
 - JavaScript
-- jQuery
-- Express
+- HTML5
+- CSS3
+- TypeScript
+
+Tools & Databases:
+
 - React
-- Node
+- NodeJS
+- Express.js
 - MySQL
 - MongoDB
 
-Additional skills:
+Other:
 
-- Team player
-- Attention to detail
-- Quick learner
+- Git
+- GitHub
+- GitLab
+- Visual Studio Code
+- MVC
+- NoSQL
+- Insomnia
+- Heroku
 
 ## Contact Me
 
-📧 [Email me](mailto:hello@sokoworld.com)
-
-## Fun Fact
-
-I can speak three different languages, English, Russian, and Ukrainian. Приятно познакомиться! I am also learning Finnish as a fourth language because I'd like to live in Finland some day. 
-
+- 💻 [Portfolio](https://romansokol.com)
+- 📫 [Email](mailto:sokolroman@proton.me)
