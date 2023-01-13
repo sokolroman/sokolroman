@@ -4,14 +4,15 @@
   <img src="https://user-images.githubusercontent.com/72160963/207974447-8ca564fc-1c94-4b43-a875-e0932c3832c7.gif" alt="drawing" width="200"/>
 </div>
 
-- Pronouns: he/him 🧍🏻‍♂️
-- Country: United States 🇺🇸
-- Coding since 2020 🧑🏻‍💻
-- Open to work: Yes
-
 ## About Me
 
-I am a beginner full stack web developer from the United States, currently working freelance. In my free time, I enjoy playing with film cameras, going out hiking, and practicing jiu-jitsu. I am also excited about the potential of Web 3.0 and AI to revolutionize the way we interact with the internet.
+I'm Roman, a 20 year old Zoomer who resides in Columbus, Ohio. I am an EMT and a Full-Stack Web Developer. I am currently in the process of learning the Finnish language. Feel free to reach out to me via [E-mail](mailto:hello@sokoworld.com)
+
+My Interests:
+- Film Photography
+- CD Collecting
+- Orthodox Christianity
+- Linux, Web Design, Open Source Software, Digital Minimalism
 
 ## Skills
 
