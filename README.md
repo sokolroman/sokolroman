@@ -26,7 +26,3 @@ Other:
 - Insomnia
 - Heroku
 
-## Contact Me
-
-- 💻 [Webpage](https://romansokol.com)
-- 📫 [Email](mailto:sokolroman@proton.me)
